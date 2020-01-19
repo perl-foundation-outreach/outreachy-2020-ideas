@@ -1,6 +1,6 @@
 # Outreachy ideas page for Perl/Raku projects
 
-This repository lists [Outreachu](https://www.outreachy.org) project ideas for Perl and related projects.
+This repository lists [Outreachy](https://www.outreachy.org) project ideas for Perl and related projects.
 
 If you are a student and have a project idea not listed below, feel free to
 contact the organization administrators and just ask!
