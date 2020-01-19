@@ -15,7 +15,7 @@ Expected outcomes
 What final result should the project have? This should help to
 understand the extent of the task.
 
-Onboarding tasks
+Onboarding or starter tasks
 ----------------
 
 Before commiting to a project, candidates are expected to perform a
@@ -39,7 +39,7 @@ Possible mentors
 ----------------
 
 At least one person that is able
-(see [this Outreachy page](https://www.outreachy.org/mentor/) for a
+(see [this Outreachy page](https://www.outreachy.org/mentor/#mentor) for a
 description of what it takes to e a mentor) and willing to mentor for
 this project. Include contact information so students can approach the
 mentors. Do ask the respective person beforehand!
